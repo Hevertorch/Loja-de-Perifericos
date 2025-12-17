@@ -1,0 +1,6 @@
+body { background: #f8f9fa; }
+.card { border-radius: 10px; }
+.table td, .table th { vertical-align: middle; }
+header {
+    margin-top: 40px;
+}
