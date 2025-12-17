@@ -35,11 +35,11 @@ O objetivo é aplicar conceitos de **backend, frontend, banco de dados e organiz
 
 ## Tecnologias Utilizadas
 
-PHP — backend e lógica da aplicação
-MySQL — banco de dados relacional
-CSS — estrutura e estilização
-Bootstrap — layout responsivo
-JavaScript — interações no frontend
+- PHP — backend e lógica da aplicação
+- MySQL — banco de dados relacional
+- CSS — estrutura e estilização
+- Bootstrap — layout responsivo
+- JavaScript — interações no frontend
 
 ---
 
@@ -68,5 +68,6 @@ JavaScript — interações no frontend
 Heverton Torchelsen
 
 Estudante de Sistemas de Informação | Desenvolvedor Full Stack em formação
+
 
 
