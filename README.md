@@ -63,9 +63,10 @@ JavaScript — interações no frontend
 
 ---
 
-👤 Autor
+# Autor
 
 Heverton Torchelsen
 
 Estudante de Sistemas de Informação | Desenvolvedor Full Stack em formação
+
 
